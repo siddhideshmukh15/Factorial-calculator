@@ -41,4 +41,4 @@ the factorial of a given non-negative number.
 
 ## Author
 
-Siddhi Deshmukh
+**Siddhi Deshmukh**
